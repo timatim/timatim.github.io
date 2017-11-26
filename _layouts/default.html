@@ -17,13 +17,20 @@
 			<div class="container">
 			
 			{{ content }}
-			
+			<div class="wrapper-footer">
+      <div class="container">
+        <footer class="footer">
+            <div class="svg-icon">
+          {% include svg-icons.html %}
+            </div>
+        </footer>
+      </div>
+    </div>
 			</div><!-- /.container -->
-			<footer>
-	    		<ul>
-	        		<li><a href="mailto:juiting.hsu@nyu.edu">email</a></li>
-        		  <li><a href="https://github.com/timatim">github.com/timatim</a></li>
-				</ul>
-			</footer>
+			<div class="container">
+				<footer>
+				{% include icons.html %}
+				</footer>
+			</div>
 		</body>
 	</html>
