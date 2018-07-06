@@ -4,7 +4,7 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-resume/blob/master/LICENSE)
  */
 body {
-  font-family: 'Candara', serif;
+  font-family: 'Arial', serif;
   padding-top: 54px;
   color: #727a82; }
 
@@ -19,7 +19,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Candara', serif;
+  font-family: 'Arial', serif;
   font-weight: 600;
   color: #343a40; }
 
@@ -32,7 +32,7 @@ h2 {
 
 .subheading {
   font-weight: 500;
-  font-family: 'Candara', serif;
+  font-family: 'Arial', serif;
   font-size: 1.35rem; }
 
 .list-social-icons a {
